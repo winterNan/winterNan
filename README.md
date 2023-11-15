@@ -1,4 +1,4 @@
-### Hi there 👋
+You can know the name of a bird in /every/ language on Earth and not know a single thing about the bird. The way you learn about the bird is to *watch* it and see how it *behaves*.
 
 <!--
 **winterNan/winterNan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
