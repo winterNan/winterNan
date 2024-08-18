@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=winterNan)](https://github.com/ryo-ma/github-profile-trophy)
+
 You can know the name of a bird in /every/ language on Earth and not know a single thing about the bird. The way you learn about the bird is to *watch* it and see how it *behaves*.
 
 ― Richard P. Feynman, "What Do You Care What Other People Think?"
