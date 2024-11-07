@@ -5,6 +5,8 @@ You can know the name of a bird in /every/ language on Earth and not know a sing
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=winterNan&theme=blue-green&show_icons=true&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterNan&layout=compact)
+
 <!--
 **winterNan/winterNan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
